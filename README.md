@@ -6,8 +6,6 @@
 
 **Note:** Using activated software may violate the original author's licensing terms and may not receive official support or updates.
 
-**If you appreciate this service and would like to keep getting recent, malware-free updates, please consider [leaving a tip via PayPal](https://www.paypal.com/paypalme/thaikolja).**
-
 ## Changelog
 
 ### v6.3.4 (latest)
